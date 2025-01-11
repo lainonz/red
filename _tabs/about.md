@@ -12,7 +12,7 @@ Saat ini, saya sedang bersekolah di **SMKN 4 Bandung** dan bekerja **part-time**
 -
 
 ### 🎯 Tujuan Saya ke Depan
-Ke depannya, saya berencana untuk mendapatkan beberapa **sertifikasi bergengsi** seperti:
+Ke depannya, saya berencana untuk mendapatkan beberapa **sertifikasi** seperti:
 - **CPTS** (Certified Penetration Testing Specialist) dari **HackTheBox** ️⚔️
 <!-- - **OSCP** (Offensive Security Certified Professional) dari **Offensive Security** 💥 -->
 
@@ -27,6 +27,6 @@ Ke depannya, saya berencana untuk mendapatkan beberapa **sertifikasi bergengsi**
 - **Eksplorasi jaringan** 🌐 dan mencoba hal-hal baru untuk memahami lebih dalam tentang bagaimana dunia digital ini bekerja. -->
 
 ## 📬 Hubungi Saya
-Jika Anda ingin berbicara lebih lanjut tentang proyek, peluang kerja sama, atau hanya ingin berbincang tentang teknologi, jangan ragu untuk menghubungi saya melalui [email](mailto:herlangga.maulani@gmail.com) atau media sosial saya.
+Jika Anda ingin berbicara lebih lanjut tentang proyek, peluang kerja sama, atau hanya ingin berbincang tentang teknologi, jangan ragu untuk menghubungi saya melalui [root@herlangga.my.id]/[herlangga.maulani@gmail.com] atau media sosial saya.
 
 Terima kasih sudah mengunjungi halaman tentang saya! Semoga perjalanan kita di dunia teknologi bisa saling menginspirasi. 🚀✨
