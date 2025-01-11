@@ -4,7 +4,7 @@ title: "Cicada HackTheBox"
 # date: 2024-12-29 10:00:00 +0700
 categories: [ctf]
 tags: [ctf, windows, hackthebox]
-image: /assets/images/cicada.png
+image: /assets/images/Cicada.png
 ---
 
 ## Recon
