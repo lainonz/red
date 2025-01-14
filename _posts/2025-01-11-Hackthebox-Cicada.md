@@ -7,7 +7,7 @@ tags: [ctf, windows, hackthebox]
 image: /assets/images/Cicada.png
 ---
 
-## Recon
+## Scanning open port
 ```shell
 $ nmap -sVC -T5 -v -Pn 10.10.11.35
 Scanning 10.10.11.35 [1000 ports]
@@ -104,17 +104,6 @@ SMB                      10.10.11.35     445    CICADA-DC        1601: CICADA\em
 ## Filtering
 The user list was cleaned and extracted from enumeration results to isolate potential usernames. This simplified subsequent spraying attacks by narrowing the scope.
 ```shell
-$ cat user.txt | awk -F " " '{print $6}'
-CICADA\Administrator
-CICADA\Guest
-CICADA\krbtgt
-CICADA\CICADA-DC$
-CICADA\john.smoulder
-CICADA\sarah.dantelia
-CICADA\michael.wrightson
-CICADA\david.orelious
-CICADA\emily.oscars
-
 $ cat user.txt | awk -F " " '{print $6}' | cut -d "\\" -f2 | tee users.txt
 Administrator
 Guest
