@@ -10,14 +10,14 @@ theme: jekyll-theme-chirpy
 lang: id
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Herlangga # the main title
 
-tagline: Web Developer, Penetration Tester # it will display as the subtitle
+tagline: CTF Player, Aspiring Red Teamer # it will display as the subtitle
 
 # description: >- # used by seo meta and the atom feed
 #   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -32,8 +32,8 @@ url: "https://red.herlangga.my.id"
 github:
   username: lainonz # change to your GitHub username
 
-twitter:
-  username: x # change to your Twitter username
+#twitter:
+  #username: x # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -46,7 +46,7 @@ social:
     - https://github.com/lainonz # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/herlanggamaulani
 
 # Site Verification Settings
 webmaster_verifications:
@@ -79,7 +79,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -102,7 +102,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/images/hansohee.jpg"
+avatar: "assets/images/ellen.gif"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -139,7 +139,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: production # [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)

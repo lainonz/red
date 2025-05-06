@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Cicada HackTheBox"
+title: "Hackthebox - Cicada [Easy]"
 # date: 2024-12-29 10:00:00 +0700
 categories: [ctf]
 tags: [ctf, windows, hackthebox]
-image: /assets/images/Cicada.png
+image: /assets/images/cicada.jpg
 ---
 
 ## Scanning open port
