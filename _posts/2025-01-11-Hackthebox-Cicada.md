@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hackthebox - Cicada [Easy]"
+title: "Hackthebox - Cicada"
 # date: 2024-12-29 10:00:00 +0700
-categories: [ctf]
+categories: [hackthebox]
 tags: [ctf, windows, hackthebox]
 image: /assets/images/cicada.jpg
 ---
