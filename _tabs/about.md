@@ -38,5 +38,3 @@ I'm Herlangga Maulani 19 years old with a passion for hacking and a strong drive
 ## 30 May 2025
 ![](/assets/images/htb.png)
 ![](/assets/images/tryhackme.png)
-
-Semoga tahun ini saya bisa mendapatkan sertifikasi CPTS dari HackTheBox
