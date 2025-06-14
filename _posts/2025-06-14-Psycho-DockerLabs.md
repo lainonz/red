@@ -6,8 +6,6 @@ categories: [dockerlabs]
 tags: [ctf, linux, pathinjection, lfi, perl]
 image: /assets/images/Psycho/doro.jpg
 ---
-# Psycho
-
 ## Enumeration
 
 ### Nmap Port Scanning
